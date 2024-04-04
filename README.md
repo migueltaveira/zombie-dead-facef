@@ -5,10 +5,15 @@ O jogo consiste em um atirador sobrevivendo a uma horda de zombies. Conforme o a
 Link do jogo: https://migueltaveira.itch.io/zombie-dead
 
 Para se locomover utilize as seguintes teclas:
+
 W - Movimenta-se para frente
+
 S - Movimenta-se para trás
+
 A - Movimenta-se para a esquerda
+
 D - Movimenta-se para a direita
+
 Para atirar clique com o BOTÃO ESQUERDO DO MOUSE
 
 Imagens do jogo abaixo:
