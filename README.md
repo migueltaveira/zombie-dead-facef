@@ -1,3 +1,12 @@
 # zombie-dead-facef
-This is a game developed using the free version of Construct3
+Este jogo foi feito usando a versão gratuita do Construct3
+O jogo consiste em um atirador sobrevivendo a uma horda de zombies. Conforme o atirador acerta o seu alvo ele adquire pontos, no qual ele entrará em um ranking de melhores atiradores de mortos-vivos.
+Para se locomover utilize as seguintes teclas:
+W - Movimenta-se para frente
+S - Movimenta-se para trás
+A - Movimenta-se para a esquerda
+D - Movimenta-se para a direita
+Para atirar clique com o BOTÃO ESQUERDO DO MOUSE
+![image](https://github.com/migueltaveira/zombie-dead-facef/assets/164427502/04c4b15e-e0f6-443c-893f-11fb5fbd34d5)
+
 https://migueltaveira.itch.io/zombie-dead
